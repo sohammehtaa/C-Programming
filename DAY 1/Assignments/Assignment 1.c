@@ -18,4 +18,16 @@ int main()
     return 0;
 }
 
-//OUTPUT :
+//OUTPUTi :
+
+aritmetic operators 
+addition code
+a+b=13
+subtraction code
+a-b=5
+multiplication code
+a*b=36
+division code
+a/b=1
+remainder code 
+Remainder when a divided by b = 5
